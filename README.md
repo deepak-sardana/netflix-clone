@@ -29,3 +29,14 @@ While building this project, I practiced:
 * Working with transforms and animations
 * Organizing project files
 * Using Git and GitHub
+
+## Future Plans
+
+* Improve responsiveness
+* Add JavaScript functionality
+* Create interactive FAQ section
+* Add more Netflix-style components
+
+## Project Status
+
+Currently under development and continuously being improved as I learn new concepts.
